@@ -3,6 +3,8 @@
 Learning / tutorials:-
 https://www.coursera.org/learn/ibm-blockchain-essentials-for-developer
 
+IBM Blockchain 101: Quick-start guide for developers:- https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html
+
 https://developer.ibm.com/blockchain/
 https://developer.ibm.com/code/patterns/category/blockchain/
 
