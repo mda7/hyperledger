@@ -1,0 +1,38 @@
+#Hyper ledger Cheat sheet
+
+Learning / tutorials:-
+https://www.coursera.org/learn/ibm-blockchain-essentials-for-developer
+
+https://developer.ibm.com/blockchain/
+https://developer.ibm.com/code/patterns/category/blockchain/
+
+https://developer.ibm.com/code/
+
+Blockchain for Dummies books (from IBM):-  https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN
+
+
+Start hyperledger:- https://hyperledger.github.io/composer/installing/development-tools.html
+    All the scripts will be in the directory ~/fabric-tools A typical sequence for Hyperledger Composer use would be
+
+    Copy
+    cd ~/fabric-tools
+    ./downloadFabric.sh
+    ./startFabric.sh
+    ./createPeerAdminCard.sh
+
+
+    ***
+
+    Then at the end of your development session
+
+    Copy
+    cd ~/fabric-tools
+    ./stopFabric.sh
+    ./teardownFabric.sh
+
+    
+    Please note: The development environment created will include a PeerAdmin identity including the cryptographic material necessary for deploying business networks.
+**********************************************
+
+
+
