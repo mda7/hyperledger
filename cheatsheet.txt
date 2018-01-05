@@ -2,6 +2,7 @@
 
 Learning / tutorials:-
 https://www.coursera.org/learn/ibm-blockchain-essentials-for-developer
+https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x
 
 https://developer.ibm.com/courses/all/category/blockchain/
 
